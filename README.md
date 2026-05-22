@@ -90,6 +90,7 @@ FROM transactions t
 JOIN customer_avg c
 ON t.customer_id = c.customer_id
 WHERE t.amount > c.avg_amount * 2;
+
 Dashboard Power BI
 Vue globale
 
