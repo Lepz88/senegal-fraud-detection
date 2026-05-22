@@ -1,0 +1,14 @@
+{
+    "sqltools.connections": [
+        {
+            "ssh": "Disabled",
+            "previewLimit": 50,
+            "server": "localhost",
+            "port": 5432,
+            "driver": "PostgreSQL",
+            "name": "senegal_fraud_db",
+            "database": "senegal_fraud_db",
+            "username": "postgres"
+        }
+    ]
+}
