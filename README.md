@@ -95,7 +95,7 @@ Dashboard Power BI
 Vue globale
 
 
-![dashboard overview](https://github.com/Lepz88/senegal-fraud-detection/blob/main/dashboard_overview.png)
+![dashboard overview](dashboard_overview.png)
 
 
 
