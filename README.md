@@ -95,7 +95,8 @@ Dashboard Power BI
 Vue globale
 
 
-<img width="1014" height="636" alt="dashboard_overview" src="https://github.com/user-attachments/assets/4da89741-3f20-4093-b296-8d3e29399865" />
+![dashboard overview](https://github.com)
+
 
 
 
