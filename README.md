@@ -94,8 +94,7 @@ WHERE t.amount > c.avg_amount * 2;
 Dashboard Power BI
 Vue globale
 
-
-<img width="1014" height="636" alt="dashboard_overview" src="https://github.com/user-attachments/assets/d4b2a24f-56d9-4698-a024-7f3dec436f36" />
+![dashboard overview](images/dashboard_overview.png)
 
 
 
